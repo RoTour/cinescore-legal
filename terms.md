@@ -27,7 +27,7 @@ Terms.
 
 **Free tier.** New installations receive 3 free generations, limited to 16 bars,
 with in-app playback and standard-quality (128 kbps) MP3 export. Free quota is
-per device and is not replenished by reinstalling the app.
+granted per app installation.
 
 **CineScore Pro.** Pro is an auto-renewing subscription purchased through
 Google Play, available as a weekly plan (with a 3-day free trial) or an annual
@@ -99,9 +99,10 @@ The app, backend, branding, preset designs, and all Service software are our
 property or that of our licensors and are protected by intellectual-property
 laws. These Terms grant you a personal, non-exclusive, non-transferable,
 revocable license to use the app on Android devices you own or control. The
-underlying research model is used under the MIT license; the Service is powered
-by SymphonyGen research (ISMIR 2026) — attribution notices are available in the
-app's Settings > Licenses screen.
+Service is powered by SymphonyGen research (ISMIR 2026); the underlying model
+weights are distributed by their authors under the MIT license, and attribution
+notices for all third-party components are available in the app's
+Settings > Licenses screen.
 
 ## 7. Fair use and availability
 

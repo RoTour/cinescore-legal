@@ -45,9 +45,10 @@ and no microphone, file, or contact access is involved.
 ### 1.3 Generated music files
 
 The MP3 (and, for Pro users, MIDI) files produced for you are stored on our
-servers so the app can stream and download them via time-limited signed links
-(links expire after 24 hours; you can re-fetch from your in-app Library while
-the file is retained). Files are associated only with your device ID.
+servers so the app can download them via time-limited signed links (links
+expire after 24 hours and are not re-issued). The app saves your music to your
+device's library at generation time; playback afterwards is local and does not
+contact our servers. Server copies are associated only with your device ID.
 
 ### 1.4 Purchase and subscription state
 
@@ -113,8 +114,8 @@ identifiers and content described above.
 - **Generated music files:** deleted from our servers **90 days** after
   creation. Files you have downloaded or cached stay on your device under your
   control.
-- **Signed download links:** expire after 24 hours (new links can be issued
-  while the file is retained).
+- **Signed download links:** expire after 24 hours and are not re-issued; your
+  music remains available in your on-device library.
 - **Device ID and quota records:** kept while needed to operate quotas and
   entitlements; deleted on request.
 - **Purchase records:** retained by RevenueCat and Google Play per their
