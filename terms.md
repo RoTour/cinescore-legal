@@ -26,13 +26,13 @@ Terms.
 ## 3. Free tier and subscriptions
 
 **Free tier.** New installations receive 3 free generations, limited to 16 bars,
-with streaming playback and a short audio watermark tag. Free quota is per
-device and is not replenished by reinstalling the app.
+with in-app playback and standard-quality (128 kbps) MP3 export. Free quota is
+per device and is not replenished by reinstalling the app.
 
 **CineScore Pro.** Pro is an auto-renewing subscription purchased through
 Google Play, available as a weekly plan (with a 3-day free trial) or an annual
 plan. Pro includes unlimited generations subject to fair use (Section 7), pieces
-up to 64 bars, 320 kbps MP3 download, MIDI export, no watermark, and priority
+up to 32 bars, high-quality 320 kbps MP3 download, MIDI export, and priority
 processing.
 
 **Billing.** All payments, renewals, trials, and refunds are handled by Google
@@ -81,7 +81,7 @@ You agree not to:
 
 - resell, sublicense, or provide the Service itself (as opposed to your
   Outputs) to third parties, including offering generation-as-a-service;
-- circumvent quotas, watermarks, or technical limits (including by rotating
+- circumvent quotas or technical limits (including by rotating
   device IDs), or access the API other than through the app;
 - reverse engineer the Service except where such restriction is prohibited by
   law;
